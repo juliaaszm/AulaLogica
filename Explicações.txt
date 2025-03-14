@@ -1,0 +1,59 @@
+Calculadora Simples:
+
+1- Solicita dois números ao usuário.
+2- Realiza as quatro operações básicas: soma, subtração, multiplicação e divisão.
+
+Média Aritmética:
+
+1- Solicita três números de notas ao usuário.
+2- Realiza a média dessas notas (some os três números e divida por três).
+3- Exiba o resultado ao usuário.
+
+Conversão de Temperatura:
+
+1- Solicite que o usuário informe a temperatura em graus Celsius
+2- Realize a conversão para Fahrenheit utilizando a fórmula: F = C x 1,8 + 32. 
+3- Exiba a temperatura convertida para o usuário.
+
+Área do Retângulo:
+
+1- Solicite os dados de base e altura do retângulo.
+2- Faça a área do retângulo (base vezes a altura).
+3- Mostre o resultado ao usuário.
+
+Antecessor e Sucessor:
+
+1- Peça um número para o usuário.
+2- Adicione 1 ao número para descobrir o sucessor e subtraia 1 para o antecessor.
+3- Mostre os resultados para o usuário.
+
+Dobro e Metade:
+
+1- Peça um número ao usuário
+2- Multiplique esse número por 2 para ter o dobro e divida por 2 para ter sua metade.
+3- Mostre esse resultado para o usuário.
+
+Cálculo de Salário:
+
+1- Solicite as horas trabalhadas e o valor de cada hora para o usuário.
+2- Multiplique esses dois valores para ter o salário total.
+3- Apresente esse valor ao usuário.
+
+Conversão de Moeda:
+
+1- Solicite a quantia de dinheiro em reais para o usuário.
+2- Divida essa quantia pelo valor do dólar atualmente.
+3- Apresente a quantia em dólar para o usuário.
+
+Cálculo do Salário com Aumento:
+
+1- Peça o salário e o e o percentual de aumento para o usuário.
+2- Calcule o valor do aumento 
+3- Some o salário antigo com o valor do aumento para descobrir o novo salário.
+4- Apresente este dado para o usuário.
+
+Velocidade Média:
+
+1- Solicite a distância percorrida por um objeto e o tempo gasto nessa distância.
+2- Divida o valor da distância pelo tempo para ter a velocidade média.
+3- Apresente esse valor ao usuário. 
